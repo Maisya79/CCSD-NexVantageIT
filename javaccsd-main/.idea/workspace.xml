@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f036144-d346-48c9-b480-1262343bcb9c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2r65hXz37kg03gqqCjdBo5ykWgc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.Docker Image.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.CcsdApplication.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/javaccsd-main/javaccsd-main/ccsd/src/main/java/com/example/ccsd/sql",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.splitter.proportion": "0.2680938",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.3.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mongo"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaccsd-main\javaccsd-main\ccsd\src\main\java\com\example\ccsd\sql" />
+      <recent name="D:\javaccsd-main\javaccsd-main\ccsd\src\main\java\com\example\ccsd" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaccsd-main\javaccsd-main\dashboard\public\img" />
+      <recent name="D:\javaccsd-main\javaccsd-main\dashboard\src\HodViews\scense\dashboard" />
+      <recent name="C:\Users\Dell\IdeaProjects" />
+      <recent name="D:\javaccsd-main\javaccsd-main" />
+      <recent name="D:\javaccsd-main\javaccsd-main\ccsd" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.ccsd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Docker Image">
+    <configuration name="CcsdApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ccsd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ccsd.CcsdApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Docker Image" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="mongo:8.0.4" />
+          <option name="containerName" value="mongo-container" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="27017" />
+                <option name="hostPort" value="27017" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-image" temporary="true">
+      <deployment type="docker-image">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Docker Image" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f036144-d346-48c9-b480-1262343bcb9c" name="Changes" comment="" />
+      <created>1735866803973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735866803973</updated>
+      <workItem from="1735908776612" duration="2040000" />
+      <workItem from="1735910844820" duration="8663000" />
+      <workItem from="1735961776538" duration="5395000" />
+      <workItem from="1735967281661" duration="135000" />
+      <workItem from="1735968166367" duration="59000" />
+      <workItem from="1735969632325" duration="1194000" />
+      <workItem from="1735976128622" duration="9468000" />
+      <workItem from="1735986643703" duration="4215000" />
+      <workItem from="1736001817803" duration="12546000" />
+      <workItem from="1736039510166" duration="14738000" />
+      <workItem from="1736057505786" duration="10370000" />
+      <workItem from="1736069936114" duration="3444000" />
+      <workItem from="1736087559717" duration="4154000" />
+      <workItem from="1736126320257" duration="2138000" />
+      <workItem from="1736128571716" duration="1256000" />
+      <workItem from="1736143199636" duration="11834000" />
+      <workItem from="1736169881127" duration="9822000" />
+      <workItem from="1736180939626" duration="109000" />
+      <workItem from="1736215081984" duration="12000" />
+      <workItem from="1736224245996" duration="1129000" />
+      <workItem from="1736229911612" duration="15608000" />
+      <workItem from="1736252765694" duration="16782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
